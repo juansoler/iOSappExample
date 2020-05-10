@@ -15,6 +15,7 @@ class CaseUserTableViewCell: UITableViewCell {
     @IBOutlet weak var dateLbl: UILabel!
     
     
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         
